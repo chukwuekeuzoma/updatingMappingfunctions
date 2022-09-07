@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.option{
+  cursor: pointer;
+}
+
+.selected{
+  color: red,
+  cursor: pointer
+}
